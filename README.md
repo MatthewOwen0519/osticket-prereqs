@@ -103,7 +103,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Open IIS as an Admin -> PHP manager -> Register new PHP version -> c:\PHP -> php-cgi (best practice to click the name of the server and restart)  
+- Open IIS as an Admin -> PHP manager -> Register new PHP version -> c:\PHP -> php-cgi 
+  (best practice to click the name of the server and restart)  
   
 </p>
 <br />  

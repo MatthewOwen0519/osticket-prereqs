@@ -146,3 +146,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     - Enable php_intl.dll
     - Enable php_opcache.dll
   - Referesh the osTicke site in your browser, observe the changes
+
+</p>
+<br />  
+
+<p>
+<img src="https://i.imgur.com/dj2et1t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+  
+- Rename: ost-config.php
+  - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+  - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php  
+  
+</p>
+<br />  
+  
+<p>
+<img src="https://i.imgur.com/LuVHCJf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+
+- Assign Permissions: ost-config.php
+ - Right click ost-config.php -> Properties -> Security -> Advanced ->
+  - Disable inheritance -> Remove All
+  - Add -> Select a principal -> Everyone -> Ok -> check Full Control -> Ok -> Apply -> Ok -> Ok
+  
+</p>
+<br />  
+  
+<p>
+<img src="https://i.imgur.com/RUKtqNG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  

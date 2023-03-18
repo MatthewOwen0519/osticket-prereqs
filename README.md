@@ -115,16 +115,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 
 -Intall osTicket
-  - Download zipfiles for osTicket -> extract and copy "upload" folder to c:\inetpub\wwwroot
+  - Download zipfiles for osTicket -> extract and copy "upload" folder to c:\inetpub\wwwroot -> Rename "upload" folder to "osTicket"
 
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/qZENG3F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ggeYKLK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
+
+- Reload IIS and enable extensions
+  - Open IIS as an admin -> click the server and restart it
+  - Expand sites -> Expand Default Web Site -> osTicket -> click "Browse *80
+    - note that some extensions are not enabled
   
 </p>
 <br />  
+
+<p>
+<img src="https://i.imgur.com/RUKtqNG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+  
+- Go back to IIS, sites -> Default -> osTicket
+  - Double-click PHP Manager
+  - Click "Enable or disable an extension"
+    - Enable php_imap.dll
+    - Enable php_intl.dll
+    - Enable php_opcache.dll
+  - Referesh the osTicke site in your browser, observe the changes

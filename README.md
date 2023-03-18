@@ -25,8 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable Internet Information Services (IIS) with CGI
 - Install Web Platform Installer
 - Install MySQL and set up username and password
-- Install osTicket
-- Configure permissions 
+- Install C++ Redistributalbe
+- Configure permissions and install osTicket
 
 <h2>Installation Steps</h2>
 
@@ -81,11 +81,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
     
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7RPcVT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
     
-- Download and install VC redist.x86.exe
+- Install C++ Redistributable
+  - Download and install VC redist.x86.exe (needed for PHP)
+    - Run installer -> click "Agree to the license terms and conditions" -> click install
     
 </p>
 <br />

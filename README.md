@@ -36,6 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 
 - Install/Enable IIS in Windows with CGI
+  - World Wide Web Services -> Application Development Features -> [X] CGI
   
 </p>
 <br />

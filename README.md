@@ -77,8 +77,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
 - Create the directory c:\PHP
 - Download PHP 7.3.8 and unzip the contents into C:\PHP
+
+</p>
+<br />
     
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+    
+- Download and install VC redist.x86.exe
+    
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+- Download and install MySQL 5.5.62
+    - Typical setup ->
+    - Launch Configureation Wizard (after instal) ->
+    - Standard Configuration ->
+    - Choose a password

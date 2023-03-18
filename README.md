@@ -98,4 +98,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 
 - Download and install MySQL 5.5.62
-  - Run installer -> Typical setup -> Launch Configureation Wizard (after install) -> Standard Configuration -> Choose a password
+  - Run installer -> Typical setup -> Launch Configureation Wizard (after install) -> Standard Configuration -> Choose a password (This is the root password) -> Execute

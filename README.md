@@ -34,9 +34,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install/Enable IIS in Windows with CGI
-  Download and install PHP Manager for IIS
-  Download and install the Rewrite Module
+- Install/Enable IIS in Windows with CGI
+- Download and install PHP Manager for IIS
+- Download and install the Rewrite Module
   Create teh directory c:\PHP
   Download PHP 7.3.8 and unzip the contents into C:\PHP
   Download and install VC redist.x86.exe

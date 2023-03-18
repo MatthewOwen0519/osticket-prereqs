@@ -36,16 +36,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 
 - Install/Enable IIS in Windows with CGI
-- Download and install PHP Manager for IIS
-- Download and install the Rewrite Module
-- Create the directory c:\PHP
-- Download PHP 7.3.8 and unzip the contents into C:\PHP
-- Download and install VC redist.x86.exe
-- Download and install MySQL 5.5.62
-    - Typical setup ->
-    - Launch Configureation Wizard (after instal) ->
-    - Standard Configuration ->
-    - Choose a password
   
 </p>
 <br />

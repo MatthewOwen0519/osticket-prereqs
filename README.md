@@ -25,8 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable Internet Information Services (IIS) with CGI
 - Install Web Platform Installer
 - Install MySQL and set up username and password
-- Install C++ Redistributable 
-- Configure permissions and install osTicket
+- Install osTicket
+- Configure permissions 
 
 <h2>Installation Steps</h2>
 

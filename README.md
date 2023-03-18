@@ -93,4 +93,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 
 - Download and install MySQL 5.5.62
-  - Run installer -> Typical setup -> Launch Configureation Wizard (after install) -> Standard Configuration -> Choose a password (This is the root password) -> Execute -> Finish
+  - Run installer -> Typical setup -> Launch Configureation Wizard (after install) -> Standard Configuration -> Choose a password (This is the root password) -> Execute -> Finish (creates a database for osTicket)
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/WcLs47L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+- Open IIS as an Admin -> PHP manager -> Register new PHP version -> c:\PHP -> php-cgi (best practice to click the name of the server and restart)  
+  
+</p>
+<br />  
+  
+<p>
+<img src="https://i.imgur.com/qZENG3F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qZENG3F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+  
+</p>
+<br />  

@@ -48,21 +48,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QBmYejL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
   - Download and install PHP Manager for IIS
+    - Run installer -> click next -> click "I agree" -> click install
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vksH9WA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 - Download and install the Rewrite Module
+  - Run installer -> click "I accept the terms in the Liscense Agreement -> click Install -> click Finish
   
 </p>
 <br />

@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Services (IIS)
+- Enable Internet Information Services (IIS) with CGI
 - Install Web Platform Installer
 - Install MySQL and set up username and password
 - Install C++ Redistributable 
@@ -34,7 +34,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install/Enable IIS in Windows with CGI
+  Download and install PHP Manager for IIS
+  Download and install the Rewrite Module
+  Create teh directory c:\PHP
+  Download PHP 7.3.8 and unzip the contents into C:\PHP
+  Download and install VC redist.x86.exe
+  Download and install MySQL 5.5.62
+    - Typical setup ->
+    - Launch Configureation Wizard (after instal) ->
+    - Standard Configuration ->
+    - Choose a password
+  
 </p>
 <br />
 

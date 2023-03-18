@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-[Files Needed for Install]"https://drive.google.com/drive/u/0/folders/1aCM7PZgRW4mZPEfLPqWPdZRou0mpgJ-A"
+[Files Needed for Install](https://drive.google.com/drive/u/0/folders/1aCM7PZgRW4mZPEfLPqWPdZRou0mpgJ-A)
 
 <p>
 <img src="https://i.imgur.com/dNY6K4Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

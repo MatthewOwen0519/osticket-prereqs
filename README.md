@@ -42,7 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Install/Enable IIS in Windows with CGI
   - Control Panel -> Program Files and Features -> Turn Windows features on or off -> [X]Internet Information Services
-  - Expand Internet Information Services -> Expand World Wide Web Services -> [X] CGI
+  - Expand Internet Information Services -> Expand World Wide Web Services -> [X] CGI (Allows the install of PHP manager)
   
 </p>
 <br />

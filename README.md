@@ -218,3 +218,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/QCIgZp7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+
+- Clean up
+  - Delete: C:\inetpub\wwwroot\osTicket\setup
+  - Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+

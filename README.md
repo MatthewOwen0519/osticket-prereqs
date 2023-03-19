@@ -184,3 +184,37 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/RUKtqNG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
+
+- osTicket setup (in browser)
+  - Name Helpdesk
+  - Default email (recieves email from customers)
+  - Type in admin credentials (for lab purposes take note of these for later use)
+  
+<p>
+<img src="https://i.imgur.com/RUKtqNG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+
+- Download and install HeidiSQL
+  - Open Heidi SQL
+  - Create a new session, root/password
+  - Connect to the session
+  - Create a database called "osTicket"
+  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/RUKtqNG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+
+- Browser setup of osTicket
+  - MySQL Database: osTicket
+  - MySQL Username: root
+  - MySQL Password: password
+  - Click "Install Now"
+  
+</p>
+<br />
+
